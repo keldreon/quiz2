@@ -12,6 +12,11 @@ import blank.quiz2.API.ApiInterface;
 import blank.quiz2.R;
 import blank.quiz2.utils.prefUtils;
 
+/*
+* 1505735
+* Galih Abdul Muhyi
+*
+* */
 public class MainActivity extends AppCompatActivity {
     private ApiInterface apiInterface;
     private prefUtils session;
